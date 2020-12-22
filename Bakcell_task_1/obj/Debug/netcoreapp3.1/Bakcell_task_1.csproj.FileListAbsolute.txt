@@ -1,0 +1,13 @@
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\bin\Debug\netcoreapp3.1\Bakcell_task_1.exe
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\bin\Debug\netcoreapp3.1\Bakcell_task_1.deps.json
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\bin\Debug\netcoreapp3.1\Bakcell_task_1.runtimeconfig.json
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\bin\Debug\netcoreapp3.1\Bakcell_task_1.runtimeconfig.dev.json
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\bin\Debug\netcoreapp3.1\Bakcell_task_1.dll
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\bin\Debug\netcoreapp3.1\Bakcell_task_1.pdb
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\obj\Debug\netcoreapp3.1\Bakcell_task_1.csprojAssemblyReference.cache
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\obj\Debug\netcoreapp3.1\Bakcell_task_1.AssemblyInfoInputs.cache
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\obj\Debug\netcoreapp3.1\Bakcell_task_1.AssemblyInfo.cs
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\obj\Debug\netcoreapp3.1\Bakcell_task_1.csproj.CoreCompileInputs.cache
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\obj\Debug\netcoreapp3.1\Bakcell_task_1.dll
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\obj\Debug\netcoreapp3.1\Bakcell_task_1.pdb
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\C-sharp-task-1\Bakcell_task_1\obj\Debug\netcoreapp3.1\Bakcell_task_1.genruntimeconfig.cache
